@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+div{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image:url(Images/backgorund.png);
+    background-position: inherit;
+    width:600px;
+    height:300px;
+    border: 1px solid transparent;
+    padding-left: 20px;
+    margin:auto;
+    margin-top: 10%;
+    box-sizing: border-box;
+    /* border-color: transparent; */
+
+}
+.font{
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    font-size: 40px;
+}
+ul{
+    font-size: 20px;
+    list-style-position: inside;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    background-color: rgb(199, 192, 192);
+    border: 1px solid;
+    
+}
+li{
+    border: 1 solid;
+}
+#ig{  
+    list-style-image: url(../Images/Insta.png);
+}
+#yt{
+    list-style-image: url(../Images/Youtube.png);
+}
+#tt{
+    list-style-image: url(../Images/Twitter.png);
+}
