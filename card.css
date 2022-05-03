@@ -39,11 +39,11 @@ li{
     border: 1 solid;
 }
 #ig{  
-    list-style-image: url(../Images/Insta.png);
+    list-style-image: url(./Images/Insta.png);
 }
 #yt{
-    list-style-image: url(../Images/Youtube.png);
+    list-style-image: url(./Images/Youtube.png);
 }
 #tt{
-    list-style-image: url(../Images/Twitter.png);
+    list-style-image: url(./Images/Twitter.png);
 }
